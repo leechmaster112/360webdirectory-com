@@ -7682,11 +7682,6 @@
       <priority>0.8</priority>
     </url>
     <url>
-      <loc>https://360WebDirectory.com/business-608331</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-    <url>
       <loc>https://360WebDirectory.com/business-604897</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -9883,6 +9878,11 @@
     </url>
     <url>
       <loc>https://360WebDirectory.com/innovate-iuuci</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+    <url>
+      <loc>https://360WebDirectory.com/indianapolis-coin-buyers-gbugp</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
