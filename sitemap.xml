@@ -5442,11 +5442,6 @@
       <priority>0.8</priority>
     </url>
     <url>
-      <loc>https://360WebDirectory.com/business-602061</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-    <url>
       <loc>https://360WebDirectory.com/business-596302</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -26398,6 +26393,11 @@
     </url>
     <url>
       <loc>https://360WebDirectory.com/in-good-hands-lvwor</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+    <url>
+      <loc>https://360WebDirectory.com/ac-roofing-and-carpentry-ltd-ffoag</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
